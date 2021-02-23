@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sorteio</string>
+    <string name="n_inicial">Inicio</string>
+    <string name="n_final">Final</string>
+    <string name="n_result">Resultado</string>
+    <string name="sortear">sortear</string>
+    <string name="n_quant">Quantidade</string>
+    <string name="descricao">Escolha o intervalo numérico desejado, digitando o número \'INICIAL\' e \'FINAL\', defina a \'QUANTIDADE\' de números que deseja sortear e clique \'SORTEAR\'</string>
+    <string name="limpaSemDados">Não há dados para limpar!</string>
+    <string name="limpaSemDados2">Não há dados para limpar!</string>
+    <string name="SortSemNumero">Insira os números antes de sortear!</string>
+</resources>

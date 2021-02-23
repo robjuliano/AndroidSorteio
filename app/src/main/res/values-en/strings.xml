@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sort Numbers</string>
+    <string name="n_inicial">from</string>
+    <string name="n_final">to</string>
+    <string name="n_result">result</string>
+    <string name="sortear">sort</string>
+    <string name="n_quant">QUANTITY</string>
+    <string name="descricao">" Choose the desired numerical range by entering the number 'INITIAL' and 'FINAL', define the 'QUANTITY' of numbers you wish to draw and click 'SORT'"</string>
+</resources>

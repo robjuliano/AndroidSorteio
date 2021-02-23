@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sorteio</string>
+    <string name="n_quant">cantidad</string>
+    <string name="n_result">resultado</string>
+    <string name="sortear">CLASIFICAR</string>
+    <string name="descricao">" Elija el rango numérico deseado ingresando el número 'INICIAL' y 'FINAL', defina la 'CANTIDAD' de números que desea dibujar y haga clic en 'CLASIFICAR'"</string>
+    <string name="n_inicial">Inicio</string>
+    <string name="n_final">Final</string>
+</resources>

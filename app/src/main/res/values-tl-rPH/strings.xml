@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gumuhit</string>
+    <string name="n_inicial">" Magsimula"</string>
+    <string name="n_final">Panghuli</string>
+    <string name="n_result">resulta</string>
+    <string name="n_quant">halaga</string>
+    <string name="sortear">pag-uri-uriin</string>
+    <string name="descricao">Piliin ang nais na saklaw ng bilang sa pamamagitan ng pagpasok ng numerong \'MAGSIMULA\' at \'PANGHULI\', tukuyin ang \'HALAGA\' ng mga numero na nais mong iguhit at i-click ang \'PAG-URI-URIIN\'</string>
+</resources>
